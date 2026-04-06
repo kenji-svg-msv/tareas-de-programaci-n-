@@ -1,0 +1,4 @@
+INVENTARIO ACTUALIZADO
+Fecha: 24/11/2025 16:56:29
+---------------------------
+huevo | Stock: 4 | Precio: S/. 2.0
